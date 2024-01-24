@@ -19,7 +19,7 @@ Aplicação simples utilizando HTML, CSS e JavaScript básicos para simular um j
 - Caroline, Clint, Demetrius, Evelyn, George, Gus, Jas, Jodi, Kent, Leo, Lewis, Linus, Marnie, Pam, Pierre, Robin, Vincent, Willy
 - Dwarf, Gunther, Henchman, Krobus, Morris, Wizard
 
-## 🌻: Como jogar
+## :sunflower: Como jogar
 - Abra a aplicação do jogo para ver o tabuleiro;
 - Faça a sua escolha de personagem com o qual quer jogar, digite seu nome no campo de tempo e clique em "pick";
 - Com o seu personagem escolhido, faça perguntas objetivas (sim ou não) ao seu oponente para descobrir qual o personagem que ele escolheu;
