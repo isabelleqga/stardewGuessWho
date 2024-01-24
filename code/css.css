@@ -1,0 +1,72 @@
+
+body{
+	background-image: url("background.jpg");
+	height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}
+
+#botn{
+	background-color: transparent;
+	border: none;
+	position: absolute;
+	z-index: 30; 
+	bottom: 20%;
+	left: 3.3%;
+}
+
+#character, #abigail, #alex, #caroline, #clint, #demetrius, #dwarf, #elliott, #emily, #evelyn, #george, #gunther, #gus, #haley, #harvey, #henchman, #jas, #jodi, #kent, #krobus, #leah, #leo, #lewis, #linus, #marnie, #maru, #morris, #pam, #penny, #pierre, #robin, #sam, #sebastian, #shane, #vincent, #willy, #wizard{
+	background-color: transparent;
+	border: none;
+	position: absolute;
+	z-index: 30; 
+}
+
+#fila1, #abigail, #alex, #caroline, #clint, #demetrius, #dwarf, #elliott, #emily, #evelyn{
+	top: 7.6%;
+}
+
+#fila2, #george, #gunther, #gus, #haley, #harvey, #henchman, #jas, #jodi, #kent{
+	top: 29.1%;
+}
+
+#fila3, #krobus, #leah, #leo, #lewis, #linus, #marnie, #maru, #morris, #pam{
+	top: 50.8%;
+}
+
+#fila4, #penny, #pierre, #robin, #sam, #sebastian, #shane, #vincent, #willy, #wizard{
+	top: 72.5%;
+}
+
+
+#coluna1, #abigail, #george, #krobus, #penny{
+	left: 19%;
+}
+#coluna2, #alex, #gunther, #leah, #pierre{
+	left: 27.2%;
+}
+#coluna3, #caroline, #gus, #leo, #robin{
+	left: 35.3%;
+}
+#coluna4, #clint, #haley, #lewis, #sam{
+	left: 43.5%;
+}
+#coluna5, #demetrius, #harvey, #linus,  #sebastian{
+	left: 51.6%;
+}
+#coluna6, #dwarf, #henchman, #marnie, #shane{
+	left: 59.7%;
+}
+#coluna7, #elliott, #jas, #maru, #vincent{
+	left: 67.8%;
+}
+#coluna8, #emily, #jodi, #morris, #willy{
+	left: 75.9%;
+}
+#coluna9, #evelyn, #kent, #pam, #wizard{
+	left: 84%;
+}
+
+
+

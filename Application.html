@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name = "author" content = "@beebelles">
+	<meta name = "description" content = "Stardew Valley Guess Who Game">
+	<meta name = "keywords" content = "stardew, valley, stardew valley, game, guess who">
+	<link rel="stylesheet" type="text/css"  href="ui.css"/>
+	<script type="text/javascript" src="aideus.js"></script>
+    <title>Guess Who Stardew Edition</title>
+</head>
+<body>
+	<div style="float:left; margin:3% 3% 2% 3.5%; position: fixed;" width="13%" height="13%">
+		<center><img id="pickando" src="yourpick.png" width="70%" height="70%"/>
+		<br><br>
+		<input type="text" id="picktexto" placeholder=" Henchman">
+	    <br><br><button onclick="pickandoChar()">Pick</button></center>
+	</div>
+	
+	
+
+	<img src="blackboard.png" style="float:right; margin:2% 2% 2% 2%; border:0" width="75%" height="75%" position = "inline"/>
+
+	<button id = "abigail" onclick="activate('abigail')"><img id ="abigailphoto" src="abigail.png" width="43%" height="43%"></button>
+	<button id = "alex" onclick="activate('alex')"><img id ="alexphoto" src="alex.png" width="43%" height="43%"></button>
+	<button id = "caroline" onclick="activate('caroline')"><img id ="carolinephoto" src="caroline.png" width="43%" height="43%"></button>
+	<button id = "clint" onclick="activate('clint')"><img id ="clintphoto" src="clint.png" width="43%" height="43%"></button>
+	<button id = "demetrius" onclick="activate('demetrius')"><img id ="demetriusphoto" src="demetrius.png" width="43%" height="43%"></button>
+	<button id = "dwarf" onclick="activate('dwarf')"><img id ="dwarfphoto" src="dwarf.png" width="43%" height="43%"></button>
+	<button id = "elliott" onclick="activate('elliott')"><img id ="elliottphoto" src="elliott.png" width="43%" height="43%"></button>
+	<button id = "emily" onclick="activate('emily')"><img id ="emilyphoto" src="emily.png" width="43%" height="43%"></button>
+	<!-- <button id = "evelyn" onclick="activate('evelyn')"><img id ="evelynphoto" src="evelyn.png" width="43%" height="43%"></button> -->
+
+	<button id = "george" onclick="activate('george')"><img id ="georgephoto" src="george.png" width="43%" height="43%"></button>
+	<button id = "gunther" onclick="activate('gunther')"><img id ="guntherphoto" src="gunther.png" width="43%" height="43%"></button>
+	<button id = "gus" onclick="activate('gus')"><img id ="gusphoto" src="gus.png" width="43%" height="43%"></button>
+	<button id = "haley" onclick="activate('haley')"><img id ="haleyphoto" src="haley.png" width="43%" height="43%"></button>
+	<button id = "harvey" onclick="activate('harvey')"><img id ="harveyphoto" src="harvey.png" width="43%" height="43%"></button>
+	<button id = "henchman" onclick="activate('henchman')"><img id ="henchmanphoto" src="henchman.png" width="43%" height="43%"></button>
+	<button id = "jas" onclick="activate('jas')"><img id ="jasphoto" src="jas.png" width="43%" height="43%"></button>
+	<button id = "jodi" onclick="activate('jodi')"><img id ="jodiphoto" src="jodi.png" width="43%" height="43%"></button>
+	<!-- <button id = "kent" onclick="activate(kent)"><img src="kent.png" width="43%" height="43%"></button> -->
+
+
+	<button id = "krobus" onclick="activate('krobus')"><img id ="krobusphoto" src="krobus.png" width="43%" height="43%"></button>
+	<button id = "leah" onclick="activate('leah')"><img id ="leahphoto" src="leah.png" width="43%" height="43%"></button>
+	<button id = "leo" onclick="activate('leo')"><img id ="leophoto" src="leo.png" width="43%" height="43%"></button>
+	<button id = "lewis" onclick="activate('lewis')"><img id ="lewisphoto" src="lewis.png" width="43%" height="43%"></button>
+	<button id = "linus" onclick="activate('linus')"><img id ="linusphoto" src="linus.png" width="43%" height="43%"></button>
+	<button id = "marnie" onclick="activate('marnie')"><img id ="marniephoto" src="marnie.png" width="43%" height="43%"></button>
+	<button id = "maru" onclick="activate('maru')"><img id ="maruphoto" src="maru.png" width="43%" height="43%"></button>
+	<button id = "morris" onclick="activate('morris')"><img id ="morrisphoto" src="morris.png" width="43%" height="43%"></button>
+	<!-- <button id = "pam" onclick="activate(pam)"><img src="pam.png" width="43%" height="43%"></button> -->
+
+	<button id = "penny" onclick="activate('penny')"><img id ="pennyphoto" src="penny.png" width="43%" height="43%"></button>
+	<button id = "pierre" onclick="activate('pierre')"><img id ="pierrephoto" src="pierre.png" width="43%" height="43%"></button>
+	<button id = "robin" onclick="activate('robin')"><img id ="robinphoto" src="robin.png" width="43%" height="43%"></button>
+	<button id = "sam" onclick="activate('sam')"><img id ="samphoto" src="sam.png" width="43%" height="43%"></button>
+	<button id = "sebastian" onclick="activate('sebastian')"><img id ="sebastianphoto" src="sebastian.png" width="43%" height="43%"></button>
+	<button id = "shane" onclick="activate('shane')"><img id ="shanephoto" src="shane.png" width="43%" height="43%"></button>
+	<button id = "vincent" onclick="activate('vincent')"><img id ="vincentphoto" src="vincent.png" width="43%" height="43%"></button>
+	<button id = "willy" onclick="activate('willy')"><img id ="willyphoto" src="willy.png" width="43%" height="43%"></button>
+	<!-- <button id = "wizard" onclick="activate(wizard)"><img src="wizard.png" width="43%" height="43%"></button> -->
+
+
+
+	<button id = "botn" onclick="newGame()"><img src="newgame.png" width="75%" height="75%"></button>
+</body>
+</html>
