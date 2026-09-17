@@ -11,7 +11,11 @@
 <p align="right"><a href="README.pt-BR.md">🇧🇷 Ler em Português</a></p>
 
 ## :pencil: Description
-A simple app using plain HTML, CSS and JavaScript to simulate a "Guess Who" game with characters from Stardew Valley. Meant to be played locally, on different machines.
+A simple app using plain HTML, CSS and JavaScript to simulate a "Guess Who" game with characters from Stardew Valley. Two people play on separate boards (in person or remotely), each picking a hidden character and eliminating candidates on their own screen.
+
+## :video_game: Play
+- **Online:** [isabelleqga.github.io/stardewGuessWho](https://isabelleqga.github.io/stardewGuessWho/)
+- **Locally:** clone or download this repo and open `index.html` in your browser
 
 ## :evergreen_tree: Characters
 - 💍 Bachelors/bachelorettes: (♀) Abigail, Emily, Haley, Leah, Maru, Penny; (♂) Alex, Clint, Elliott, Harvey, Sam, Sebastian, Shane

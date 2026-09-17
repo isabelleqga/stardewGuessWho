@@ -11,7 +11,11 @@
 <p align="right"><a href="README.md">🇺🇸 Read in English</a></p>
 
 ## :pencil: Descrição
-Aplicação simples utilizando HTML, CSS e JavaScript básicos para simular um jogo de "cara-a-cara" com os personagens do jogo Stardew Valley. Utilização local em máquinas diferentes.
+Aplicação simples utilizando HTML, CSS e JavaScript básicos para simular um jogo de "cara-a-cara" com os personagens do jogo Stardew Valley. Duas pessoas jogam em tabuleiros separados (presencialmente ou à distância), cada uma escolhendo um personagem secreto e eliminando candidatos na sua própria tela.
+
+## :video_game: Como acessar
+- **Online:** [isabelleqga.github.io/stardewGuessWho](https://isabelleqga.github.io/stardewGuessWho/)
+- **Localmente:** clone ou baixe este repositório e abra o `index.html` no seu navegador
 
 ## :evergreen_tree: Personagens
 - 💍 Pretendentes: (♀) Abigail, Emily, Haley, Leah, Maru, Penny; (♂) Alex, Clint, Elliott, Harvey, Sam, Sebastian, Shane
