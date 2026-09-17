@@ -28,5 +28,7 @@ A simple app using plain HTML, CSS and JavaScript to simulate a "Guess Who" game
 - Once the match has started (i.e. as soon as the first character is eliminated on the board), you can no longer change your pick via "Pick" or "Random" without restarting — the game will warn you and ask if you want to restart the match;
 - Use the "Restart" button at any time to start the match over from scratch.
 
+<div align="center"><img src="https://github.com/isabelleqga/stardewGuessWho/blob/main/base/preview.png" alt="stardew-preview" width="85%" height="auto" style="border-radius:20px;" /></div>
+
 ## :art: Credits
 The board design is based on a video by the Unsurpassable Z channel: https://www.youtube.com/watch?v=9RRxRxtrSIY
