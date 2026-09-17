@@ -28,5 +28,7 @@ Aplicação simples utilizando HTML, CSS e JavaScript básicos para simular um j
 - Depois que a partida começar (ou seja, assim que o primeiro personagem for eliminado no tabuleiro), não é mais possível trocar de personagem pelo "Pick" ou "Random" sem reiniciar — o jogo vai avisar e perguntar se você quer reiniciar a partida;
 - Use o botão "Restart" a qualquer momento para reiniciar a partida do zero.
 
+<div align="center"><img src="https://github.com/isabelleqga/stardewGuessWho/blob/main/base/preview.png" alt="stardew-preview" width="85%" height="auto" style="border-radius:20px;" /></div>
+
 ## :art: Créditos
 O design do tabuleiro é baseado no vídeo do canal Unsurpassable Z: https://www.youtube.com/watch?v=9RRxRxtrSIY
